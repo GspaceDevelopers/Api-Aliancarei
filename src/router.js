@@ -1,5 +1,5 @@
 import { Router } from "express";
-import ProdutosController from "./controllers/ProdutosController";
+import ProdutosController from "./Controllers/ProdutosController";
 import QueryesController from "./controllers/QueryesController";
 import QueryCategory from "./controllers/QueryCategory";
 import Querycoritem from "./controllers/Querycoritem";
