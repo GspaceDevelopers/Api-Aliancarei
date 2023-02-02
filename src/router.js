@@ -1,8 +1,6 @@
 import { Router } from "express";
-import ProdutosController from "./Controllers/ProdutosController";
-import QueryesController from "./controllers/QueryesController";
-import QueryCategory from "./controllers/QueryCategory";
-import Querycoritem from "./controllers/Querycoritem";
+import ProdutosController from './Controllers/ProdutosController'
+
 
 const routes = new Router();
 

@@ -15,7 +15,7 @@
     "heroku",
     "express"
   ],
-  "proxy": "https://apigspace.herokuapp.com/produtos",
+  "proxy": "",
   "scripts": {
     "start": "node index",
     "dev": "nodemon src/server.js"
