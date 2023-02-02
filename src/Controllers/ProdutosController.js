@@ -1,4 +1,4 @@
-import Produtos from "../schemas/Produtos";
+import Produtos from "../Schemas/Produtos";
 
 class ProdutoController {
   async index(req, res) {
